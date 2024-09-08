@@ -8,7 +8,7 @@ Welcome to TaskMaster, a calendar management system tailored for university stud
 - 📈 Analytics Page: Gain insights into how you spend your time, with analytics designed to help you optimize your study and activity patterns.
 
 
-## To run this app: 
+### To run this app: 
 - The app starts automatically in dev mode when you open this project in Codespaces. You can stop it by pressing Ctrl+C in the Codespaces terminal, where the app is running. To restart, use the following command from the main project directory:
 
 ```
